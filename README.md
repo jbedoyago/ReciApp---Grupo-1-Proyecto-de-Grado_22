@@ -3,6 +3,11 @@
 ## Descripción
 ReciApp es un prototipo de aplicación orientada a mejorar la gestión de residuos sólidos en el municipio de Dosquebradas, mediante el monitoreo de rutas de recolección y la participación ciudadana.
 
+Jeikson Bedoya Gomez
+Manuela Villegas Arredondo
+Maria Alexandra Gomez Diaz
+Grupo 22
+
 ## Objetivo
 Desarrollar un sistema de información que permita el seguimiento en tiempo real de rutas, generación de alertas y consulta de horarios.
 
